@@ -62,8 +62,7 @@
         <img width="320" alt="APP Logo" src="./screenshots/logo.png">
       </td>
       <td align="center" width="50%">
-        <h2>Coming Soon For The App Stores</h2>
-        <p>It might take some time for the app to get uploaded due to the strict policies of the app stores</p>
+        <h2>Coming Soon For The Apple Store</h2>
        <p align="center">
 <!--           <a href="https://apps.apple.com/app/idXXXXXXXXX" target="_blank">
             <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Available on the Apple Store" width="150"/>
